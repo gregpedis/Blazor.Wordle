@@ -11,7 +11,6 @@ a, .btn-link {
 /* Custom */
 
 .footer {
-    color: #000; /* Text color for the footer */
     text-align: center; /* Center-align the text */
     padding: 20px 0; /* Add some padding top and bottom */
     position: fixed; /* Position the footer at the bottom of the viewport */
@@ -50,6 +49,7 @@ a, .btn-link {
 }
 
 .key {
+    border-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,6 +63,7 @@ a, .btn-link {
 }
 
 .big-key {
+    border-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
